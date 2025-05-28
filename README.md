@@ -23,3 +23,4 @@ This repo documents my hands-on practice and mini-projects.
 ## 📖 Notes
 - [Numpy Notes](./notes/numpy-notes.md)
 - [SQL Snippets](./notes/sql-snippets.md)
+
