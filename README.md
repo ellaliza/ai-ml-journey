@@ -10,9 +10,36 @@ Phase One is about laying the foundations, making my way around and getting used
 - [x] Numpy
 - [x] SQL
 - [x] Matplotlib
-- [ ] Pandas
-- [ ] Scipy
-- [ ] Mathematical Foundations
+- [x] Pandas
+- [x] Scipy
+- [x] Mathematical Foundations
+
+## 📚 Phase Two – Core ML Models and Concepts
+Focus: Learn, implement, and build intuition around essential machine learning models, starting with supervised learning and progressing to unsupervised and more advanced techniques.
+
+- Supervised Learning
+    * Regression and classification
+
+        [ ] Linear Regression
+
+        [ ] Polynomial Regression
+
+        [ ] Logistic Regression
+
+        [ ] Nearest Neighbour (KNN)
+
+        [ ] Naive Bayes 
+
+        [ ] Decision Trees
+
+- Unsupervised Learning
+    * Clustering 
+
+    * Gaussian Mixtures
+
+    * Dimensionality Reduction 
+
+
 
 This repo documents my hands-on practice and mini-projects.
 ##
@@ -24,3 +51,17 @@ This repo documents my hands-on practice and mini-projects.
 - [Numpy Notes](./notes/numpy-notes.md)
 - [SQL Snippets](./notes/sql-snippets.md)
 
+## Experiments
+| What I practice as I learn new things.
+- [Medical Charges](./notebooks/experiments/medical_charges_example.ipynb)
+
+
+# New Challenge : 100 Days of Machine Learning!
+Today, 15th October 2025, I decided to end my season of inconsistency in this journey and took on a new challenge. 100 days of Machine Learning. This new challenge does not follow anyone's preset challenge rules or roadmap. I intend to continue with my roadmap, and the whole point of the challenge is to grow and learn something new and practical daily. 
+
+## Week 1
+### Day 1 - 15th October 2025
+- I did some exploratory data analysis on a dataset on medical charges.
+- I learnt some basic use of the plotly library, as well as seaborn.
+- I visualized the data and trends and understood the term "correlation coefficient"
+- I understood causation fallacy, which led me to also understand that as ML engineers, it is our responsibility to ensure that our models do not mislead users. Computers cannot do it all on their own, and that's why we do what we do.

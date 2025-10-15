@@ -1,0 +1,12 @@
+.vscode
+/share
+/Scripts
+*.cfg
+data_migration.ipynb*
+/Lib
+/Include
+/leetcode
+/*.csv
+/etc
+/*.png
+/*.html
