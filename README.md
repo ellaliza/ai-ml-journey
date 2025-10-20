@@ -76,3 +76,6 @@ Today, 15th October 2025, I decided to end my season of inconsistency in this jo
     - I visualized the model using a 3d scatter plot in plotly express.
     - I also included a third feature in the model
     
+    ### Day 4 - 20th October 2025
+    - I included categorical columns in my model by converting to numbers
+    - I practiced one hot encoding
