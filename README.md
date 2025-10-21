@@ -79,3 +79,9 @@ Today, 15th October 2025, I decided to end my season of inconsistency in this jo
     ### Day 4 - 20th October 2025
     - I included categorical columns in my model by converting to numbers
     - I practiced one hot encoding
+
+    ### Day 5 - 21st October 2025
+    - I learnt about feature scaling.
+    - I learnt about creating test sets and training sets.
+    - I learnt a general strategy to apply to any ML problem.
+    
